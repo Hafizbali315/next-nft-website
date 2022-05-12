@@ -14,7 +14,7 @@ import topImage2 from '../public/assets/ku.jpg'
 
 import Roadmap from '../components/Roadmap'
 import Team from '../components/Team'
-import dynamic from 'next/dynamic'
+// import dynamic from 'next/dynamic'
 import Whats from '../components/Whats'
 import Bar from '../components/Bar'
 import PadCoin from '../components/PadCoin'

@@ -3,5 +3,5 @@ type Props = {
 }
 
 export default function Prose({ children }: Props) {
-	return <div className="px-40 mx-auto min-w-prose">{children}</div>
+	return <div className="auto-w-prose mx-auto">{children}</div>
 }
